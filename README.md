@@ -24,8 +24,10 @@ Y probamos que modemos iniciar sesion sin contraseña
 ![IMAGEN5](FOTOS/IMAGEN5.png)
 
 # 3.2. RDP: El Escritorio en tu Navegador
+Nos sale error al contectarnos por escritorio remoto 
+![IMAGEN9](FOTOS/IMAGEN9.png)
 
-Nos conectamos por localhost:3000
+Nos conectamos por localhost:3000 ya que por escritorio remoto no sale que ya tenemos a alguien conectado 
 
 ![IMAGEN6](FOTOS/IMAGEN6.png)
 
