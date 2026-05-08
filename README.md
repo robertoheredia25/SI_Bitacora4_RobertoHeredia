@@ -22,3 +22,13 @@ Creamos la key para poder iniciar sesion sin contraseña con alumno para ello us
 Y probamos que modemos iniciar sesion sin contraseña 
 
 ![IMAGEN5](FOTOS/IMAGEN5.png)
+
+# 3.2. RDP: El Escritorio en tu Navegador
+
+Nos conectamos por localhost:3000
+
+![IMAGEN6](FOTOS/IMAGEN6.png)
+
+Creamos la prueba 
+
+![IMAGEN7](FOTOS/IMAGEN7.png)
