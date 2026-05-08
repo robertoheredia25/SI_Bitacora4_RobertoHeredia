@@ -20,6 +20,8 @@ Creamos la key para poder iniciar sesion sin contraseña con alumno para ello us
 ![IMAGEN4](FOTOS/IMAGEN4.png)
 
 Y probamos que modemos iniciar sesion sin contraseña 
+Este es el problema que tenemos:
+El error de Escritorio Remoto 0x1104 ("Protocol Error at the Client") indica un fallo de compatibilidad o configuración en la conexión RDP [0x5.3]. Generalmente se soluciona desactivando estilos visuales en la experiencia de cliente, habilitando el acceso remoto o ajustando el firewall de Windows para permitir RDP en la máquina destino [0x5.1, 0x5.4].
 
 ![IMAGEN5](FOTOS/IMAGEN5.png)
 
