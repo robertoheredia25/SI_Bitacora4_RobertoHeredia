@@ -1,5 +1,5 @@
 # Tarea 1: Despliegue de la Infraestructura
-![IMAGEN1](FOTOS\IMAGEN1.png)
+![IMAGEN1](FOTOS/IMAGEN1.png)
 
 # SSH: Forjando la Llave Maestra
 
@@ -7,11 +7,18 @@ Paso A (Conexión Inicial): Conéctate al contenedor usando ssh alumno@localhost
 
 En este caso nos sale un error entrando con @localhost entonces usamos la ip de local host 127.0.0.1
 
-![IMAGEN2](FOTOS\IMAGEN2.png)
+![IMAGEN2](FOTOS/IMAGEN2.png)
 
 # Paso B (Generación de Identidad): En tu máquina anfitriona, generaremos un par de llaves: ssh-keygen -t ed25519 -C "tu_correo@ejemplo.com"
 
-![IMAGEN3](FOTOS\IMAGEN3.png)
+![IMAGEN3](FOTOS/IMAGEN3.png)
 
 # Paso C (Transferencia): Copia tu llave pública al servidor. Puedes usar ssh-copy-id -p 2222 alumno@localhost o hacerlo manualmente pegando el contenido en ~/.ssh/authorized_keys dentro del contenedor.
 
+Creamos la key para poder iniciar sesion sin contraseña con alumno para ello usaremos el comando de la siguiente imagen 
+
+![IMAGEN4](FOTOS/IMAGEN4.png)
+
+Y probamos que modemos iniciar sesion sin contraseña 
+
+![IMAGEN5](FOTOS/IMAGEN5.png)
