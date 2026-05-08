@@ -32,3 +32,6 @@ Nos conectamos por localhost:3000
 Creamos la prueba 
 
 ![IMAGEN7](FOTOS/IMAGEN7.png)
+
+# Configuracion del sshd_config
+![IMAGEN8](FOTOS/IMAGEN8.png)
