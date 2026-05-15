@@ -1,9 +1,5 @@
 # Licencias del software utilizado en la infraestructura
 
-A continuación, se detallan las licencias del software utilizado en la infraestructura definida mediante Docker Compose. Para cada componente se indica el nombre del software, el tipo de licencia y la fuente oficial.
-
----
-
 # 1. Apache Guacamole
 
 Apache Guacamole es una plataforma de acceso remoto sin cliente que permite conectarse a escritorios remotos mediante navegador web utilizando protocolos como RDP, VNC y SSH.
@@ -98,9 +94,4 @@ El contenido y scripts de las imágenes LinuxServer.io se distribuyen generalmen
 - Sitio oficial: https://www.linuxserver.io/
 - GitHub oficial: https://github.com/linuxserver
 
----
-
-# Conclusión
-
-La infraestructura utilizada emplea principalmente software de código abierto con licencias permisivas como Apache 2.0 y BSD. Esto permite utilizar, modificar y distribuir el software legalmente, siempre respetando las condiciones específicas de cada licencia.
 
