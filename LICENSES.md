@@ -66,4 +66,41 @@ Esta licencia open source permite usar, modificar y distribuir el software libre
 
 ---
 
+# 5. Ubuntu XFCE
+
+La imagen `linuxserver/webtop:ubuntu-xfce` utiliza Ubuntu junto con el entorno gráfico XFCE para proporcionar acceso remoto a un escritorio Linux.
+
+## Licencia
+Ubuntu y la mayoría de sus componentes se distribuyen bajo diferentes licencias de software libre, principalmente:
+
+- GPL (GNU General Public License)
+- LGPL
+- MIT
+- BSD
+
+XFCE se distribuye bajo la **GPL**.
+
+## Fuente oficial
+- Ubuntu: https://ubuntu.com/
+- Licencias Ubuntu: https://ubuntu.com/licensing
+- XFCE: https://www.xfce.org/
+
+---
+
+# 6. LinuxServer.io Images
+
+Las imágenes Docker utilizadas (`linuxserver/openssh-server` y `linuxserver/webtop`) son mantenidas por LinuxServer.io.
+
+## Licencia
+El contenido y scripts de las imágenes LinuxServer.io se distribuyen generalmente bajo la **GNU General Public License v3 (GPLv3)**.
+
+## Fuente oficial
+- Sitio oficial: https://www.linuxserver.io/
+- GitHub oficial: https://github.com/linuxserver
+
+---
+
+# Conclusión
+
+La infraestructura utilizada emplea principalmente software de código abierto con licencias permisivas como Apache 2.0 y BSD. Esto permite utilizar, modificar y distribuir el software legalmente, siempre respetando las condiciones específicas de cada licencia.
 
