@@ -33,21 +33,7 @@ La licencia BSD es una licencia permisiva de software libre que permite reutiliz
 
 ---
 
-# 3. Docker Compose
-
-Docker Compose es una herramienta que permite definir y ejecutar aplicaciones multicontenedor mediante archivos YAML.
-
-## Licencia
-Docker Compose se distribuye bajo la **Apache License 2.0**.
-
-Esta licencia permite el uso, modificación y distribución del software de forma libre, incluyendo usos comerciales.
-
-## Fuente oficial
-- Sitio oficial: https://docs.docker.com/compose/
-- Licencia oficial: https://github.com/docker/compose/blob/main/LICENSE
-
----
-# 4. Docker
+# 3. Docker
 
 Docker es una plataforma de virtualización ligera basada en contenedores que permite empaquetar aplicaciones y sus dependencias.
 
@@ -62,7 +48,7 @@ Esta licencia open source permite usar, modificar y distribuir el software libre
 
 ---
 
-# 5. Ubuntu XFCE
+# 4. Ubuntu XFCE
 
 La imagen `linuxserver/webtop:ubuntu-xfce` utiliza Ubuntu junto con el entorno gráfico XFCE para proporcionar acceso remoto a un escritorio Linux.
 
@@ -83,7 +69,7 @@ XFCE se distribuye bajo la **GPL**.
 
 ---
 
-# 6. LinuxServer.io Images
+# 5. LinuxServer
 
 Las imágenes Docker utilizadas (`linuxserver/openssh-server` y `linuxserver/webtop`) son mantenidas por LinuxServer.io.
 
