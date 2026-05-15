@@ -9,8 +9,6 @@ Fecha: 15/05/2026
 Ciclo:DAM
 
 
-**Tabla de Contenido:**
-
 **Índice**   
 1. [Análisis de Necesidades](#id1)
 2. [Segundo apartado](#id2)
